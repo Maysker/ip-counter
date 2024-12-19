@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maysker/ip-counter/refs/heads/master/assets/logo.png" alt="Logo" width="200">
+  <a href="https://github.com/Maysker/ip-counter">
+    <img src="https://raw.githubusercontent.com/Maysker/ip-counter/refs/heads/master/assets/logo.png" alt="Logo" width="200">
+  </a>
 </p>
+
 
 ## Overview
 
